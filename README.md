@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Siyam</h1>
 <h3 align="center">A Passionate Person😊</h3>
-<img align="Right" alt="Coding" width="500" src="https://mobimg.b-cdn.net/v3/fetch/c5/c5cb027d04faaae81a68c4a9ec95d608.jpeg">
+<img align="Right" alt="Coding" width="400" src="https://mobimg.b-cdn.net/v3/fetch/c5/c5cb027d04faaae81a68c4a9ec95d608.jpeg">
 
 - ➖ Working : **Student**
 
